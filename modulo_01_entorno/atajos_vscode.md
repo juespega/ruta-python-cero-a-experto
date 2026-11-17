@@ -1,0 +1,3 @@
+- ´Ctrl´ + ´Shift´ + ´P´: Paleta de comandos, El buscador maestro de VS Code: ejecuta cualquier acción o ajuste sin buscar en menús.
+- ´Ctrl´ + ´P´: Ir a archivo, Abre cualquier archivo de tu proyecto escribiendo parte de su nombre.
+- ´Ctrl´ + ´S´: Guardar, Guarda el archivo actual(un punto blanco en la pestaña indica cambios sin guardar).
