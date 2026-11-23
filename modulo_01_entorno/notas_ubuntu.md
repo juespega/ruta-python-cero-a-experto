@@ -10,3 +10,4 @@
 - `rm`: Eliminar un archivo.
 - `rm -rf`: Eliminar una carpeta y todo su contenido.
 - Linea agregada desde FEATURE
+- Linea agregada desde MAIN
